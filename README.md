@@ -1,107 +1,111 @@
- 
+# CATATAN ( NOTE )
+Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
 
-<h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
+Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+
+Best Regards. Hisoka
+
+# Hisoka-Morou
+Script WhatsApp Bot Multi Device
+
+## NOTE
+This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+
 <p align="center">
-<img src="https://telegra.ph/file/e7e75787f251b2e78896d.jpg" />
+	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
+<h1 align="center">Hisoka-Morou</h1>
 
-<p align="center">
-𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
+## My Project
+* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
+* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
+* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
 
-
-------
-
-# ```Bot Info```
-<p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-    </p>
-
--------
-
-## ```Connect With Me```
-<p align="center">
-
-<a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
-
-
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- [`2nd GC`](https://chat.whatsapp.com/I1KRg1SCXcl2fuwtpG24hU)
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
-
-
-
-# Setup For Deployment 👇
-
-- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
-
-## `Generate Pair Code For Session`
-
-[`Classic Pairing`](https://replit.com/@pesguru02/Classic-Pairing)
-
-[`HOW TO DEPLOY VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
-
-# Instalasi
-## Heroku Buildpack
+## HEROKU BUILDPACK
 ```bash
 heroku/nodejs
+heroku/python
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
-*Add your Creds.json to Classic file
-* Create a new app at [Heroku](heroku.com)
-* Add Build packs
-* Connect your heroku with your github
-* Locate Classic-v3-BUG
-* Now deploy.
-* Start the Worker
-* Enjoy the Bot.
 
-```
-## `For Termux/Ssh/Ubuntu`
+## UNTUK PENGGUNA WINDOWS/RDP
+
+* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+
+
 ```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
-cd Classic-v3-BUG
-yarn install
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
-cd Classic-v3-BUG
-npm start
-```
-## `For 24/7 Activation (Termux)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+git clone https://github.com/DikaArdnt/Hisoka-Morou
+cd Hisoka-Morou
+npm install
 ```
 
- ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
+## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
+
+* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
+* when you already have a database, you just need to take mongourl
+* Put mongourl in Procfile `worker: node . --db 'mongourl'`
+* Example `worker: node . -- db 'Your Mongo URI'`
+* Example `worker: node . -- db 'mongodb+srv://hisoka:hisokamorrow@hisoka.axmu8.mongodb.net/?retryWrites=true&w=majority'`
+
+
+
+## FOR TERMUX/UBUNTU/SSH USER
+
+```bash
+apt update && apt upgrade
+apt install git -y
+apt install nodejs -y
+apt install ffmpeg -y
+git clone https://github.com/DikaArdnt/Hisoka-Morou
+cd Hisoka-Morou
+npm install
+```
+
+## RECOMMENDED INSTALL ON TERMUX
+
+```bash
+pkg install yarn
+yarn
+```
+
+## INSTALLING
+```bash
+$ node .
+```
+
+## ❗ WARNING
+WhatsApp bot is still in the development stage, so there are a few bugs
+WhatsApp Connection (BETA, not working perfectly)
+
+Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
+Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
+
+
+## THANKS TO
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Nurutomo`](https://github.com/Nurutomo)
+* [`Mhankbarbar`](https://github.com/MhankBarBar)
+* [`Faiz`](https://github.com/FaizBastomi)
+* [`Gimenz`](https://github.com/Gimenz)
+* [`rayy`](https://github.com/rayyreall)
+* [`FatihArridho`](https://github.com/FatihArridho)
+* [`Pa7rick`](https://github.com/pa7rickr)
+* [`RidhoUhuy`](https://github.com/Atak676) 
+* [`zhwzein`](https://github.com/zhwzein)
+* [`CAF-ID`](https://github.com/CAF-ID)
+* [`bintang`](https://github.com/Bintangp02)
+
+```Thanks to all who have participated in the development of this script```
+
+
+License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+Support Me
+* [`Paypal`](https://www.paypal.me/Cakhaho)
+* [`Saweria`](https://saweria.co/DikaArdnt)
